@@ -6,6 +6,4 @@ python-dotenv==1.0.0
 Werkzeug==3.0.1
 
 
-**`Procfile`** or note your start command (e.g., if your Flask app is in `app.py` with app instance named `app`):
-```
-web: gunicorn app:app
+
